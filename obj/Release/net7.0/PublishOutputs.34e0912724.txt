@@ -1,0 +1,5 @@
+C:\Users\PC-JP\Desktop\PASTA C#\ProjetoWalker.exe
+C:\Users\PC-JP\Desktop\PASTA C#\ProjetoWalker.dll
+C:\Users\PC-JP\Desktop\PASTA C#\ProjetoWalker.deps.json
+C:\Users\PC-JP\Desktop\PASTA C#\ProjetoWalker.runtimeconfig.json
+C:\Users\PC-JP\Desktop\PASTA C#\ProjetoWalker.pdb

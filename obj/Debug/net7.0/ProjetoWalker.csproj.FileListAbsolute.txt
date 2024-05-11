@@ -1,0 +1,28 @@
+C:\Users\PC-JP\Desktop\PASTA C#\ProjetoWalker\bin\Debug\net7.0\ProjetoWalker.exe
+C:\Users\PC-JP\Desktop\PASTA C#\ProjetoWalker\bin\Debug\net7.0\ProjetoWalker.deps.json
+C:\Users\PC-JP\Desktop\PASTA C#\ProjetoWalker\bin\Debug\net7.0\ProjetoWalker.runtimeconfig.json
+C:\Users\PC-JP\Desktop\PASTA C#\ProjetoWalker\bin\Debug\net7.0\ProjetoWalker.dll
+C:\Users\PC-JP\Desktop\PASTA C#\ProjetoWalker\bin\Debug\net7.0\ProjetoWalker.pdb
+C:\Users\PC-JP\Desktop\PASTA C#\ProjetoWalker\obj\Debug\net7.0\ProjetoWalker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-JP\Desktop\PASTA C#\ProjetoWalker\obj\Debug\net7.0\ProjetoWalker.AssemblyInfoInputs.cache
+C:\Users\PC-JP\Desktop\PASTA C#\ProjetoWalker\obj\Debug\net7.0\ProjetoWalker.AssemblyInfo.cs
+C:\Users\PC-JP\Desktop\PASTA C#\ProjetoWalker\obj\Debug\net7.0\ProjetoWalker.csproj.CoreCompileInputs.cache
+C:\Users\PC-JP\Desktop\PASTA C#\ProjetoWalker\obj\Debug\net7.0\ProjetoWalker.dll
+C:\Users\PC-JP\Desktop\PASTA C#\ProjetoWalker\obj\Debug\net7.0\refint\ProjetoWalker.dll
+C:\Users\PC-JP\Desktop\PASTA C#\ProjetoWalker\obj\Debug\net7.0\ProjetoWalker.pdb
+C:\Users\PC-JP\Desktop\PASTA C#\ProjetoWalker\obj\Debug\net7.0\ProjetoWalker.genruntimeconfig.cache
+C:\Users\PC-JP\Desktop\PASTA C#\ProjetoWalker\obj\Debug\net7.0\ref\ProjetoWalker.dll
+C:\Users\PC-JP\OneDrive\Área de Trabalho\PROGAMAÇÃO\PASTA C#\ProjetoWalker\bin\Debug\net7.0\ProjetoWalker.exe
+C:\Users\PC-JP\OneDrive\Área de Trabalho\PROGAMAÇÃO\PASTA C#\ProjetoWalker\bin\Debug\net7.0\ProjetoWalker.deps.json
+C:\Users\PC-JP\OneDrive\Área de Trabalho\PROGAMAÇÃO\PASTA C#\ProjetoWalker\bin\Debug\net7.0\ProjetoWalker.runtimeconfig.json
+C:\Users\PC-JP\OneDrive\Área de Trabalho\PROGAMAÇÃO\PASTA C#\ProjetoWalker\bin\Debug\net7.0\ProjetoWalker.dll
+C:\Users\PC-JP\OneDrive\Área de Trabalho\PROGAMAÇÃO\PASTA C#\ProjetoWalker\bin\Debug\net7.0\ProjetoWalker.pdb
+C:\Users\PC-JP\OneDrive\Área de Trabalho\PROGAMAÇÃO\PASTA C#\ProjetoWalker\obj\Debug\net7.0\ProjetoWalker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-JP\OneDrive\Área de Trabalho\PROGAMAÇÃO\PASTA C#\ProjetoWalker\obj\Debug\net7.0\ProjetoWalker.AssemblyInfoInputs.cache
+C:\Users\PC-JP\OneDrive\Área de Trabalho\PROGAMAÇÃO\PASTA C#\ProjetoWalker\obj\Debug\net7.0\ProjetoWalker.AssemblyInfo.cs
+C:\Users\PC-JP\OneDrive\Área de Trabalho\PROGAMAÇÃO\PASTA C#\ProjetoWalker\obj\Debug\net7.0\ProjetoWalker.csproj.CoreCompileInputs.cache
+C:\Users\PC-JP\OneDrive\Área de Trabalho\PROGAMAÇÃO\PASTA C#\ProjetoWalker\obj\Debug\net7.0\ProjetoWalker.dll
+C:\Users\PC-JP\OneDrive\Área de Trabalho\PROGAMAÇÃO\PASTA C#\ProjetoWalker\obj\Debug\net7.0\refint\ProjetoWalker.dll
+C:\Users\PC-JP\OneDrive\Área de Trabalho\PROGAMAÇÃO\PASTA C#\ProjetoWalker\obj\Debug\net7.0\ProjetoWalker.pdb
+C:\Users\PC-JP\OneDrive\Área de Trabalho\PROGAMAÇÃO\PASTA C#\ProjetoWalker\obj\Debug\net7.0\ProjetoWalker.genruntimeconfig.cache
+C:\Users\PC-JP\OneDrive\Área de Trabalho\PROGAMAÇÃO\PASTA C#\ProjetoWalker\obj\Debug\net7.0\ref\ProjetoWalker.dll
